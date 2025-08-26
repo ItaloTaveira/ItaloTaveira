@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ítalo Taveira and I'm a Developer Front-End, from Brazil!</p>
+<p align="left">My name is Ítalo Taveira and I'm a FullStack Developer, from Brazil!</p>
 
 ###
 
