@@ -30,8 +30,8 @@ My professional goal is to maintain continuous learning and improvement, applyin
 I have experience working with the following technologies and tools:
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="52" height="40" alt="Vue.js logo" />
   <img width="12" />
@@ -42,7 +42,7 @@ I have experience working with the following technologies and tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="40" alt="Docker logo" />
-</p>
+</div>
 
 ###
 
