@@ -30,7 +30,7 @@ My professional goal is to maintain continuous learning and improvement, applyin
 I have experience working with the following technologies and tools:
 </p>
 
-<div align="left">
+<div text-align>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
